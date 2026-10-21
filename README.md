@@ -24,6 +24,8 @@ The solution also includes a human review process so that security engineers can
 - Generate remediation recommendations and route them for human review.
 - Use AWS security services to control access, protect data and monitor activity.
 
+The repository documents the proposed architecture, service selection, end-to-end workflow and security considerations.
+
 ## 2. Architecture Diagram
 
 The following diagram illustrates how the different AWS services and integrations work together.
